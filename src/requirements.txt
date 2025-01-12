@@ -1,0 +1,9 @@
+typer==0.12.5
+sqlalchemy==2.0.34
+deepdiff==7.0.1
+filelock==3.16.1
+valentine==0.2.0
+docplex==2.27.239
+qiskit-optimization==0.6.1
+qiskit-aer==0.14.2
+cplex==22.1.1.2
